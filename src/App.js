@@ -2,7 +2,7 @@ import React from 'react';
 //import logo from './logo.svg';
 import './App.css';
 import Header from './Components/Header'
-import Buttons from './Components/Buttons'
+import Buttons from './Components/Buttons/Buttons'
 import Footer from './Components/Footer'
 
 function App() {
